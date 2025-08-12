@@ -4,3 +4,4 @@ langchain-google-genai
 langgraph
 streamlit
 youtube-transcript-api 
+python-dotenv 
