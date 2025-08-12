@@ -1,0 +1,6 @@
+pydantic
+langgraph-checkpoint-sqlite
+langchain-google-genai
+langgraph
+streamlit
+youtube-transcript-api 

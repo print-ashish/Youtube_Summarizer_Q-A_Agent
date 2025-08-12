@@ -1,0 +1,8 @@
+.venv
+.env
+checkpoints.sqlite
+checkpoints.sqlite-shm
+checkpoints.sqlite-wal
+youtube_transcript.py
+
+
